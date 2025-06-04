@@ -1,5 +1,3 @@
-###  DATE:
-
 ###  NAME: MERCY A
 ###  ROLL NO : 212223110027
 ###  DEPARTMENT: B.E.CSE(IOT)
